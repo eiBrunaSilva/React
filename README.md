@@ -10,7 +10,7 @@
 
 ## 💻 Sobre
 
-Esse repositório foi criado para armazenar alguns códigod desenvolvidos em React no VSCODE.
+Esse repositório foi criado para armazenar alguns códigos desenvolvidos em React no VSCODE.
 
 -----------
 
